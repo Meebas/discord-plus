@@ -22,7 +22,7 @@
   --dplus-background-color-hue: 320;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.9;
+  --dplus-background-color-alpha: 0.8;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
@@ -41,7 +41,7 @@
   --dplus-background-color-hue: 320;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.9;
+  --dplus-background-color-alpha: 0.8;
 }
 
 :root {
@@ -62,7 +62,7 @@ Set avatar/server radius to 50% to make them circular.
   --dplus-spacing-ui: 4px;
 
 /* This sets how much space there should be between the app contents and the edges of the window. It also affects the distance between major UI elements, such as the server list to the channel list and channel list to the chat. */
-   --dplus-spacing-app: 2px;
+   --dplus-spacing-app: 3px;
 
 /* Size of user and server icons */
 --dplus-icon-avatar-chat: 64px;
@@ -73,6 +73,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://icons.iconarchive.com/icons/cornmanthe3rd/metronome/512/Communication-email-blue-icon.png);
---dplus-icon-home-light: url(https://icons.iconarchive.com/icons/cornmanthe3rd/metronome/512/Communication-email-blue-icon.png);
+--dplus-icon-home-dark: url(https://static.vecteezy.com/system/resources/previews/010/160/517/original/email-and-mail-icon-sign-symbol-design-free-png.png);
+--dplus-icon-home-light: url(https://static.vecteezy.com/system/resources/previews/010/160/517/original/email-and-mail-icon-sign-symbol-design-free-png.png);
 }
